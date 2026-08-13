@@ -1,0 +1,12 @@
+{
+  "name": "Аудит завода",
+  "short_name": "АудитЗавода",
+  "description": "Приложение для проведения аудитов и чек-листов на заводе",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "display": "standalone",
+  "start_url": "./index.html",
+  "icons": [
+    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}
