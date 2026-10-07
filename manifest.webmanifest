@@ -1,12 +1,1 @@
-{
-  "name": "Аудит завода",
-  "short_name": "АудитЗавода",
-  "description": "Приложение для проведения аудитов и чек-листов на заводе",
-  "theme_color": "#0f172a",
-  "background_color": "#0f172a",
-  "display": "standalone",
-  "start_url": "./index.html",
-  "icons": [
-    { "src": "favicon.svg", "sizes": "any", "type": "image/svg+xml" }
-  ]
-}
+{"name":"Аудит завода","short_name":"Аудит","start_url":"/zavod-audit/","display":"standalone","background_color":"#0f172a","lang":"en","scope":"/zavod-audit/","description":"Чек-лист для аудита на производстве — работает офлайн","theme_color":"#0f172a","icons":[{"src":"icons/icon-192.png","sizes":"192x192","type":"image/png"},{"src":"icons/icon-512.png","sizes":"512x512","type":"image/png"}]}
